@@ -1,2 +1,4 @@
 # Agent-Based-Model-ABM-using-NetLogo
 An agent based model was made to simulate the effects of introduction of JPYC stablecoin to the JPY bank deposit. 
+
+The simulation is populated by two primary types of agents: Households and Banks. The core of the model is the set of rules that govern how households earn, transact, and manage their money between traditional JPY bank deposits and the JPYC stablecoin. Households dynamically update their perception of JPYC's utility based on the costs and benefits they experience during financial transactions. Furthermore, the simulation includes a mechanism for income generation, ensuring a continuous flow of new capital that agents must choose how to allocate. This approach allows us to observe how adoption patterns emerge from the bottom up, driven by the interactions of individual agents with each other and with the financial products available to them.
